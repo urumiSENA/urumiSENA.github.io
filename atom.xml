@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Techno Toys]]></title>
   <link href="http://urumiSENA.github.io/atom.xml" rel="self"/>
   <link href="http://urumiSENA.github.io/"/>
-  <updated>2013-12-29T23:09:01-05:00</updated>
+  <updated>2013-12-30T23:07:25-05:00</updated>
   <id>http://urumiSENA.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Urumi]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -26,20 +26,135 @@
 
 <p>Un corto resumen de esta herramienta sería el siguiente:</p>
 
-<blockquote><h3>Título de primer nivel</h3>
+<blockquote><ul>
+<li><h3>Título de primer nivel</h3>
+
+<br>
 
 <ul>
 <li><p><strong>HTML</strong></p>
 
-<p><code>&lt;h1&gt;Esto es un título de primer nivel&lt;/h1&gt;</code></p></li>
+<p>  <code>&lt;h1&gt;Esto es un título de primer nivel&lt;/h1&gt;</code></p></li>
 <li><p><strong>Markdown</strong></p>
 
-<p><code>Esto es un título de primer nivel</code></p>
+<p>  <code>Esto es un título de primer nivel</code></p>
 
-<p><code>==</code>
-En otras palabras escribes el título y en el renglón de abajo escribes, por lo menos, dos símbolos de igual (=).</p></li>
+<p>  <code>==</code></p></li>
 </ul>
-</blockquote>
+</li>
+</ul>
+
+
+<p>En otras palabras escribes el título y en el renglón de abajo escribes, por lo menos, dos símbolos de igual (=).</p></blockquote>
+
+<br>
+
+
+<blockquote><ul>
+<li><h3>Título de segundo nivel</h3>
+
+<br>
+
+<ul>
+<li><p><strong>HTML</strong></p>
+
+<p>  <code>&lt;h2&gt;Esto es un título de segundo nivel&lt;/h2&gt;</code></p></li>
+<li><p><strong>Markdown</strong></p>
+
+<p>  <code>Esto es un título de segundo nivel</code></p>
+
+<p> <code>--</code></p></li>
+</ul>
+</li>
+</ul>
+
+
+<p>En otras palabras escribes el título y en el renglón de abajo escribes, por lo menos, dos símbolos de guión/menos (&ndash;).</p></blockquote>
+
+<br>
+
+
+<blockquote><ul>
+<li><h3>Títulos de tercer nivel en adelante</h3>
+
+<br>
+
+<ul>
+<li><p><strong>HTML</strong></p>
+
+<p>  <code>&lt;h3&gt;Esto es un título de tercer nivel&lt;/h3&gt;</code></p>
+
+<p>  <code>&lt;h4&gt;Esto es un título de cuarto nivel&lt;/h4&gt;</code></p>
+
+<p>  <code>&lt;h5&gt;Esto es un título de quinto nivel&lt;/h5&gt;</code></p>
+
+<p>  <code>&lt;h6&gt;Esto es un título de sexto nivel&lt;/h6&gt;</code></p></li>
+<li><p><strong>Markdown</strong></p>
+
+<p>  <code>###Esto es un título de tercer nivel</code></p>
+
+<p>  <code>####Esto es un título de cuarto nivel</code></p>
+
+<p>  <code>#####Esto es un título de quinto nivel</code></p>
+
+<p>  <code>######Esto es un título de sexto nivel</code></p></li>
+</ul>
+</li>
+</ul>
+
+
+<p>En otras palabras escribes el título antecedido de un número de caracteres de almohadilla/numeral (#) equivalente al nivel que deseas crear.</p></blockquote>
+
+<br>
+
+
+<blockquote><ul>
+<li><h3>Cursiva (Emphasized)</h3>
+
+<br>
+
+<ul>
+<li><p><strong>HTML</strong></p>
+
+<p>  <code>&lt;em&gt;Esta frase está escrita en cursiva&lt;/em&gt;</code></p></li>
+<li><p><strong>Markdown</strong></p>
+
+<p>  <code>*Esta frase está escrita en cursiva*</code></p>
+
+<p>  <code>_Esta frase también está escrita en cursiva_</code></p></li>
+</ul>
+</li>
+</ul>
+
+
+<p>En otras palabras escribes la palabra o frase entre asteriscos (*) o guiones bajos (_).</p></blockquote>
+
+<br>
+
+
+<blockquote><ul>
+<li><h3>Negrilla (Strong)</h3>
+
+<br>
+
+<ul>
+<li><p><strong>HTML</strong></p>
+
+<p>  <code>&lt;strong&gt;Esta frase está escrita en negrilla&lt;/strong&gt;</code></p></li>
+<li><p><strong>Markdown</strong></p>
+
+<p>  <code>**Esta frase está escrita en negrilla**</code></p>
+
+<p>  <code>__Esta frase también está escrita en negrilla__</code></p></li>
+</ul>
+</li>
+</ul>
+
+
+<p>En otras palabras escribes la palabra o frase entre dos asteriscos (**) o dos guiones bajos (__).</p></blockquote>
+
+<br>
+
 
 <p>En una próxima oportunidad continuaré comentándoles mis experiencias en este proceso.</p>
 ]]></content>
